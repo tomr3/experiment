@@ -1,0 +1,13 @@
+{
+    "name": "tomr3/experiment",
+    "description": "experiment",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "require": {
+        "phpunit/phpunit": "3.7.29",
+        "brianium/paratest": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
